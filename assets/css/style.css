@@ -4339,8 +4339,8 @@ Shop Area Style
 
 .single-shop-card .shop-content {
   padding: 30px;
-  border: 1px dashed rgba(221, 0, 0, 0.15);
-  border-top: 1px dashed transparent;
+  border: 1px dashed #3e9885;
+  border-top: 1px dashed #3e9885;
   border-radius: 0px 0px 10px 10px;
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
@@ -6824,6 +6824,12 @@ Go To Top Style
 @media (max-width: 767px) {
   .top-header-area {
       display: none;
+  }
+}
+@media (max-width: 767px) {
+  .col-sm-6 {
+      flex: 0 0 50%; /* Establece que cada columna ocupe el 50% del ancho en dispositivos móviles */
+      max-width: 50%; /* Establece que cada columna ocupe el 50% del ancho en dispositivos móviles */
   }
 }
 /*# sourceMappingURL=style.css.map */
