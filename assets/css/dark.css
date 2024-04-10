@@ -115,22 +115,22 @@ Default CSS
 
 .theme-dark .form-control:focus::-webkit-input-placeholder {
   color: transparent;
-  border-color: #dd0000;
+  border-color: #3e9885;
 }
 
 .theme-dark .form-control:focus:-ms-input-placeholder {
   color: transparent;
-  border-color: #dd0000;
+  border-color: #3e9885;
 }
 
 .theme-dark .form-control:focus::-ms-input-placeholder {
   color: transparent;
-  border-color: #dd0000;
+  border-color: #3e9885;
 }
 
 .theme-dark .form-control:focus::placeholder {
   color: transparent;
-  border-color: #dd0000;
+  border-color: #3e9885;
 }
 
 .theme-dark .default-btn {
@@ -140,7 +140,7 @@ Default CSS
 }
 
 .theme-dark .default-btn.active {
-  background-color: #dd0000;
+  background-color: #3e9885;
   color: #ffffff;
 }
 
@@ -151,11 +151,11 @@ Default CSS
 
 .theme-dark .default-btn:hover {
   color: #ffffff;
-  border-color: #dd0000;
+  border-color: #3e9885;
 }
 
 .theme-dark .default-btn.style-2 {
-  border: 1px solid #dd0000;
+  border: 1px solid #3e9885;
   background-color: transparent;
 }
 
@@ -165,7 +165,7 @@ Default CSS
 }
 
 .theme-dark .default-btn.style-3:hover {
-  border-color: #dd0000;
+  border-color: #3e9885;
 }
 
 .theme-dark .default-btn.style-4 {
@@ -173,16 +173,16 @@ Default CSS
 }
 
 .theme-dark .default-btn.style-4:hover {
-  border-color: #dd0000;
+  border-color: #3e9885;
 }
 
 .theme-dark .default-btn.style-5 {
-  border: 1px solid #dd0000;
+  border: 1px solid #3e9885;
   color: #ffffff;
 }
 
 .theme-dark .default-btn.style-5:hover {
-  border-color: #dd0000;
+  border-color: #3e9885;
 }
 
 .theme-dark .navbar-area {
@@ -210,7 +210,7 @@ Default CSS
 }
 
 .theme-dark .desktop-nav .navbar .navbar-nav .nav-item a:hover, .theme-dark .desktop-nav .navbar .navbar-nav .nav-item a:focus, .theme-dark .desktop-nav .navbar .navbar-nav .nav-item a.active {
-  color: #dd0000;
+  color: #3e9885;
 }
 
 .theme-dark .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li a {
@@ -218,7 +218,7 @@ Default CSS
 }
 
 .theme-dark .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:hover, .theme-dark .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:focus, .theme-dark .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li a.active {
-  color: #dd0000;
+  color: #3e9885;
 }
 
 .theme-dark .desktop-nav .navbar .others-options.style2 .header-contact-box a {
@@ -226,7 +226,7 @@ Default CSS
 }
 
 .theme-dark .desktop-nav .navbar .others-options.style2 .header-contact-box a:hover {
-  color: #dd0000;
+  color: #3e9885;
 }
 
 .theme-dark .navbar-area.nav-style-3 {
@@ -271,7 +271,7 @@ Default CSS
 }
 
 .theme-dark .training-details-sidebar .training-information ul li a:hover {
-  color: #dd0000;
+  color: #3e9885;
 }
 
 .theme-dark .single-services-card {
@@ -408,7 +408,7 @@ Default CSS
 }
 
 .theme-dark .shop-details .shop-details-content .category-and-tags ul li a:hover {
-  color: #dd0000;
+  color: #3e9885;
 }
 
 .theme-dark .shop-details .shop-details-content .price-and-rating ul li {
@@ -467,7 +467,7 @@ Default CSS
 }
 
 .theme-dark .cart-table tbody tr td a:hover {
-  color: #dd0000;
+  color: #3e9885;
 }
 
 .theme-dark .total-cart {
@@ -495,7 +495,7 @@ Default CSS
 }
 
 .theme-dark .checkout-top-content span a:hover {
-  color: #dd0000;
+  color: #3e9885;
 }
 
 .theme-dark .order-table {
@@ -543,7 +543,7 @@ Default CSS
 
 .theme-dark .portfolio-slider.owl-theme .owl-nav [class*=owl-]:hover {
   color: #ffffff;
-  background-color: #dd0000;
+  background-color: #3e9885;
 }
 
 .theme-dark .single-portfolio-item .portfolio-content {
@@ -559,7 +559,7 @@ Default CSS
 }
 
 .theme-dark .project-information ul li a:hover {
-  color: #dd0000;
+  color: #3e9885;
 }
 
 .theme-dark .blog-details-content .quote {
@@ -583,7 +583,7 @@ Default CSS
 }
 
 .theme-dark .single-contact-item a:hover {
-  color: #dd0000;
+  color: #3e9885;
 }
 
 .theme-dark .coming-soon-area::before {
@@ -600,7 +600,7 @@ Default CSS
 }
 
 .theme-dark .coming-soon-counter .list ul li {
-  color: #dd0000;
+  color: #3e9885;
 }
 
 .theme-dark .coming-soon-counter .list ul li span {
@@ -651,7 +651,7 @@ Default CSS
 }
 
 .theme-dark .coming-soon-content .social-links ul li a:hover {
-  background-color: #dd0000;
+  background-color: #3e9885;
   color: #ffffff;
 }
 
