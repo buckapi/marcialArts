@@ -6820,4 +6820,10 @@ Go To Top Style
 .tp-cursor-point-area {
   cursor: none;
 }
+
+@media (max-width: 767px) {
+  .top-header-area {
+      display: none;
+  }
+}
 /*# sourceMappingURL=style.css.map */
